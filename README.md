@@ -2,7 +2,7 @@
 
 Beautify and indent SQL queries by inserting newlines before clause keywords, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/sql-formatter
+**Live Demo:** https://file-converter-free.com/en/developer-tools/sql-formatter-online
 
 ## How It Works
 
